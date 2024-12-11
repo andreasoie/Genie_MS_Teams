@@ -1,4 +1,4 @@
-# Databricks Genie Bot
+# Databricks Genie API - Bot - Microsoft Teams
 
 ## Objective
 
