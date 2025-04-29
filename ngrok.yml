@@ -1,0 +1,9 @@
+version: 2
+authtoken: 2uWyPVIXm76WSkd7uNQCWcGrcC0_48LkYFy9gWzrT7ecnQ2qJ
+tunnels:
+  bot:
+    proto: http
+    addr: 3978
+# Optional settings
+# log: log.txt
+# region: us

@@ -1,0 +1,1 @@
+az webapp up --name appgeniebotdev --resource-group rggeniebotdev --plan aspgeniebotdev --runtime "PYTHON:3.10" --sku B1 --location westeurope
